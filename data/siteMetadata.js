@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Laid-Back Program Blog by Ariki Masayuki',
+  title: 'Leisurely Program Blog by Ariki Masayuki',
   author: 'Ariki Masayuki',
-  headerTitle: 'Laid-Back Blog',
+  headerTitle: 'Leisurely Blog',
   description:
     'I am recording my memorandum when studying deep learning and creating sites and databases in Next.js and Vercel, in a leisurely manner.',
   language: 'ja-JP',
