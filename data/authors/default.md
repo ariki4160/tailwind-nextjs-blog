@@ -1,16 +1,20 @@
 ---
-name: Tails Azimuth
+name: Ariki Masayuki
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Director of Digital Contents
+company: Tomono Printing
+email: ariki1068@gmail.com
+twitter: https://twitter.com/ariki4160
+linkedin: https://www.linkedin.com/in/ariki-masayuki-673842118/
+github: https://github.com/ariki4160
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+印刷会社で Web 制作部署のワークフローを管理しています。Python/Zope/Django、JavaScript/React/Gatsby.js/Next.js、Go/Hugo、FileMaker 　などが好きです。
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+8 年ほど前に流行った分身写真のような合成画像。息子 2 人に協力してもらって作成しました。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+![composition](/static/images/about/about_me_composition.jpg)
+
+昔のモノクロ写真（子供の頃に撮影）に、ディープラーニングで色を付けたもの。[satoshiiizuka/siggraph2016_colorization: Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'.](https://github.com/satoshiiizuka/siggraph2016_colorization) で色付をしました。4 年前ほどに流行っていたので、作成したもの。
+
+![colorization](/static/images/about/about_me_colorization.jpg)
