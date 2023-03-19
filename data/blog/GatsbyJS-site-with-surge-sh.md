@@ -22,7 +22,7 @@ Gatsby は React で作られている静的サイトジェネレーターです
 
 以前、gatsby-cli のコマンドをインストールをしていましたが、バージョンが古いので、最新バージョンにアップデートします。
 
-```
+```bash
 $ gatsby -v
 1.1.50
 $ npm i -g gatsby-cli
@@ -36,14 +36,14 @@ $ gatsby -v
 
 [gatsby-starter-hero-blog](https://www.gatsbyjs.org/starters/gatsby-starter-hero-blog)を利用してプロジェクトを作成します。
 
-```
+```bash
 $ gatsby new vivo-gatsby https://github.com/greglobinski/gatsby-starter-hero-blog.git
 $ cd vivo-gatsby/
 ```
 
 ローカルマシン上でプロジェクトを起動します。
 
-```
+```bash
 $ gatsby develop
 ```
 
@@ -51,7 +51,7 @@ http://localhost:8000 で動作確認
 
 gatsby-starter-hero-blog では、algolia でサイト内を検索するので、algolia に signup して、必要な API キー等を取得して、プロジェクトフォルダ内に「.env」というファイルを作成して、下記の API キー等を設定しておきます。
 
-```
+```bash
 GOOGLE_ANALYTICS_ID=...
 ALGOLIA_APP_ID=...
 ALGOLIA_SEARCH_ONLY_API_KEY=...
@@ -66,7 +66,7 @@ FB_APP_ID=...
 
 gatsby build で、public フォルダ内に公開用のファイルを生成します。
 
-```
+```bash
 $ gatsby build
 success open and validate gatsby-configs — 0.007 s
 success load plugins — 0.286 s
@@ -115,13 +115,13 @@ Sarge.sh の特徴
 
 コマンドラインツールのインストールします。
 
-```
+```bash
 $ npm install --global surge
 ```
 
 初回のみメールアドレスとパスワードを入力してアカウントを作成します。
 
-```
+```bash
 $ surge
 ```
 
@@ -131,7 +131,7 @@ $ surge
 
 surge コマンドの引数として、「該当のフォルダ」「使用したい surge.sh より前の名前」を指定して起動　このコマンドでサイトへの公開が完了します。
 
-```
+```bash
 $ surge public vivo-gatsby.surge.sh
 
    Welcome to Surge! (surge.sh)
@@ -154,7 +154,7 @@ $ surge public vivo-gatsby.surge.sh
 
 よく使うコマンドの確認　公開しているサイト一覧の確認　サイトの削除
 
-```
+```bash
 $ surge list
 	1543124581655 vivo-gatsby.surge.sh         1 hour ago    surge   surge.sh   Standard
 $ surge teardown vivo-gatsby.surge.sh

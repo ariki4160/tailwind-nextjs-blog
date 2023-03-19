@@ -40,7 +40,7 @@ node はまだ入っていません。
 
 JavaScript ツール マネージャには、[Volta](https://volta.sh/) を利用します。インストールをしようとしますが、curl が使えませんでした。
 
-```
+```bash
 root@DESKTOP-RAS40GK:~# curl https://get.volta.sh | bash
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
@@ -54,13 +54,13 @@ root@DESKTOP-RAS40GK:~# curl https://get.volta.sh | bash
 
 再度 Ubuntu 22.04.1 LTS をインストール
 
-```
+```bash
 PS C:\Users\Owner> wsl.exe --install Ubuntu-22.04
 ```
 
 Volta のインストール完了
 
-```
+```bash
 ariki@DESKTOP-RAS40GK:~$ curl https://get.volta.sh | bash https://get.volta.sh | bash
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
@@ -80,14 +80,14 @@ success: Setup complete. Open a new terminal to start using Volta!
 
 volta install node で、その時点の最新版がインストールされます。
 
-```
+```bash
 ariki@DESKTOP-RAS40GK:~$ volta install node
 success: installed and set node@18.14.1 (with npm@9.3.1) as default
 ```
 
 node の起動確認
 
-```
+```bash
 ariki@DESKTOP-RAS40GK:~$ node
 Welcome to Node.js v18.14.1.
 Type ".help" for more information.
