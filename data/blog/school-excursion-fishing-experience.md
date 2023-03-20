@@ -14,7 +14,7 @@ title: '修学旅行での漁業体験の様子がfacebookにアップされて�
 
 [漁師のいるゲストハウス - まるきんまる | Watarai-gun Mie | Facebook](https://www.facebook.com/yuuei.fish?fref=nf)
 
-![漁師のいるゲストハウス - まるきんまる](/static/images/post/school-excursion-fishing-experience/school-excursion-fishing-experience_01.png '漁師のいるゲストハウス - まるきんまる')
+[![漁師のいるゲストハウス - まるきんまる](/static/images/post/school-excursion-fishing-experience/school-excursion-fishing-experience_01.png '漁師のいるゲストハウス - まるきんまる')](https://www.facebook.com/yuuei.fish?fref=nf)
 
 写真と動画がアップされていました。ライフジャケットを着て海に飛び込むのが、「むっちゃ面白かった！」と言っていたその動画がアップされていました。一番手前にいて黄色いライフジャケットを着ているのが長男です。写真、動画のアップをしていただき、ありがとうございました。
 
