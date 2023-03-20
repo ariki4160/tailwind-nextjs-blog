@@ -18,6 +18,6 @@ title: '修学旅行での漁業体験の様子がfacebookにアップされて�
 
 写真と動画がアップされていました。ライフジャケットを着て海に飛び込むのが、「むっちゃ面白かった！」と言っていたその動画がアップされていました。一番手前にいて黄色いライフジャケットを着ているのが長男です。写真、動画のアップをしていただき、ありがとうございました。
 
-![少し先の未来に皆でジャンプ ‼](/static/images/post/school-excursion-fishing-experience/school-excursion-fishing-experience_02.png '少し先の未来に皆でジャンプ ‼')
+[![少し先の未来に皆でジャンプ ‼](/static/images/post/school-excursion-fishing-experience/school-excursion-fishing-experience_02.png '少し先の未来に皆でジャンプ ‼')](https://fb.watch/jmaV7PTqfv/)
 
 [少し先の未来に皆でジャンプ ‼ | 漁師のいるゲストハウス - まるきんまる | Facebook](https://fb.watch/jmaV7PTqfv/)
