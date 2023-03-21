@@ -1,5 +1,5 @@
 ---
-name: Ariki Masayuki
+name: Masayuki Ariki
 avatar: /static/images/avatar.png
 occupation: Director of Digital Contents
 company: Tomono Printing
