@@ -12,7 +12,7 @@ Ruby の基本的なことが、よくわかっていない点があったので
 
 puts メソッド　引数として指定したオブジェクトを改行付きで表示
 
-```bash
+```ruby
 $ irb
 irb(main):001:0> puts "Hello World","Welcome to Ruby"
 Hello World
@@ -22,7 +22,7 @@ Welcome to Ruby
 
 p メソッド　引数として指定したオブジェクトを読みやすい形式で表示
 
-```bash
+```ruby
 irb(main):002:0> p "Hello World","Welcome to Ruby"
 "Hello World"
 "Welcome to Ruby"
@@ -31,7 +31,7 @@ irb(main):002:0> p "Hello World","Welcome to Ruby"
 
 superclass メソッド　オブジェクトがどのスーパークラスに属しているかを調べる
 
-```bash
+```ruby
 irb(main):003:0> 2016.class
 => Fixnum
 irb(main):004:0> 2016.class.superclass
@@ -55,14 +55,14 @@ irb(main):009:0>
 
 インスタンスメソッド　操作対象となるオブジェクト.メソッド（引数）
 
-```bash
+```ruby
 irb(main):003:0> 2016.class
 => Fixnum
 ```
 
 関数的メソッド　メソッド（引数）
 
-```bash
+```ruby
 irb(main):001:0> puts "Hello World","Welcome to Ruby"
 Hello World
 Welcome to Ruby
@@ -71,14 +71,14 @@ Welcome to Ruby
 
 クラスメソッド　クラス.メソッド（引数）
 
-```bash
+```ruby
 irb(main):010:0> Time.now
 => 2016-05-29 08:38:04 +0900
 ```
 
 ローカル変数とグローバル変数
 
-```bash
+```ruby
 $ irb
 irb(main):001:0> character = "ruby"
 => "ruby"
