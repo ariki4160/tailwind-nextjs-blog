@@ -61,7 +61,7 @@ PS C:\Users\Owner> wsl.exe --install Ubuntu-22.04
 Volta のインストール完了
 
 ```bash
-ariki@DESKTOP-RAS40GK:~$ curl https://get.volta.sh | bash https://get.volta.sh | bash
+ariki@DESKTOP-RAS40GK:~$ curl https://get.volta.sh | bash
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100 10930  100 10930    0     0  10501      0  0:00:01  0:00:01 --:--:-- 10509
