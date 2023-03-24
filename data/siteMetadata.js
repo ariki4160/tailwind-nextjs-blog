@@ -6,8 +6,8 @@ const siteMetadata = {
     'I am recording my memorandum when studying deep learning and creating sites and databases in Next.js and Vercel, in a leisurely manner.',
   language: 'ja-JP',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://www.vivo-blog.site',
+  siteRepo: 'https://github.com/ariki4160/tailwind-nextjs-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
