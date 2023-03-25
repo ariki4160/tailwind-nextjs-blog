@@ -1,7 +1,7 @@
 ---
 comments: true
 date: '2016-05-18T22:11:37+09:00'
-description: '大量の重複しないIDをpythonでuuidモジュールを使って作成します'
+summary: '大量の重複しないIDをpythonでuuidモジュールを使って作成します'
 draft: false
 slug: 'a-large-amount-id-generate'
 tags: ['python']
