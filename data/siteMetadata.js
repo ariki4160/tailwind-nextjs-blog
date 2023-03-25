@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Leisurely Program Blog by Masayuki Ariki',
+  title: 'Leisurely Program Blog',
   author: 'Masayuki Ariki',
   headerTitle: 'Leisurely Blog',
   description:
