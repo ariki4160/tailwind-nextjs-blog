@@ -21,6 +21,7 @@ socialImage: '/static/images/previous-blog-site.png'
 - [のーんびりと読書の感想、書評](https://vivo-design.hatenablog.com/)
 - [のーんびりと　 Web プログラム　アメーババージョン](https://ameblo.jp/ariki4160/)
 - [Masayuki Ariki | vivo in postach.io](https://masayukiariki.postach.io/)
+- [Leisurely Photo Archive](https://ariki4160.tumblr.com/)
 
 ## Site
 
